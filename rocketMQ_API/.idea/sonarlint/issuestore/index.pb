@@ -1,6 +1,4 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 X
 (src/main/java/simple/OnewayProducer.java,a\9\a9076f97941e2bfc89d50fc1044bf370475a9e39
 Z
