@@ -1,0 +1,30 @@
+
+f
+java:S13013"KReplace this "switch" statement by "if" statements to increase readability.(‹Èşšıÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Í­”½ûÿÿÿÿ
+X
+java:S1874"=Remove this use of "DefaultMQPullConsumer"; it is deprecated.(ù²³£ùÿÿÿÿ
+X
+java:S1874"=Remove this use of "DefaultMQPullConsumer"; it is deprecated.(ù²³£ùÿÿÿÿ
+Y
+java:S2147?"DCombine this catch with the one at line 61, which has the same body.(°İÔW
+_
+java:S2147A"DCombine this catch with the one at line 61, which has the same body.(Æ‘Îüÿÿÿÿ
+Z
+java:S2147C"DCombine this catch with the one at line 61, which has the same body.(ä ¹€
+t
+java:S2142C"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q
+java:S1874&"6Remove this use of "getOffsetStore"; it is deprecated.(ú²Òöùÿÿÿÿ
+Q
+java:S1874)"6Remove this use of "getOffsetStore"; it is deprecated.(§¾òÀÿÿÿÿÿ
+G
+java:S1874,"1Remove this use of "maxOffset"; it is deprecated.(ë‘ßü
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ıŞ•ë
+s	java:S1313"YComplete cases by adding the missing enum constants or add a default case to this switch.(‹Èşšıÿÿÿÿ
+B
+java:S16026",Remove useless curly braces around statement(–²ïÁ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(»‹ã«

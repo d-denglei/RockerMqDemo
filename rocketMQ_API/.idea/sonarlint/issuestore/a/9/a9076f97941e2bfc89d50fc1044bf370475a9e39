@@ -1,0 +1,6 @@
+
+²
+java:S1130"Remove the declaration of thrown exception 'org.apache.rocketmq.client.exception.MQBrokerException', as it cannot be thrown from method's body.(£‘ûòûÿÿÿÿ8¬üî„1
+c
+java:S3457!"AFormat specifiers should be used instead of string concatenation.(¸ˆŞúÿÿÿÿ8ª¡ó„1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¸ˆŞúÿÿÿÿ8«¡ó„1
